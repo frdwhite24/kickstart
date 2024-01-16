@@ -39,8 +39,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@inquirer/checkbox": "^1.5.0",
-    "@inquirer/confirm": "^2.0.15",
+    "@inquirer/prompts": "^3.3.0",
     "ora": "^8.0.1"
   }
 }
